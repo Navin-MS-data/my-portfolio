@@ -84,14 +84,5 @@ It's not about being pretty. It's about being **BOLD**.
 └── README.md            # [FILE] You are here
 ```
 
-## /// CONTACT_COORDINATES
-
-**TRANSMISSION OPEN:**
-- **MAIL**: `topiwalaarham@gmail.com`
-- **GITHUB**: `Arham43-ops`
-- **LOCATION**: `Remote / Earth`
-
-> "I build digital products that refuse to be boring."
-
 ---
 **© 2025 NAVIN KUMAR M S.exe // SYSTEM_END**
